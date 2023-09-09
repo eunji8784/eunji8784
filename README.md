@@ -11,7 +11,7 @@
   - 대학 연합 IT벤처 창업 동아리 SOPT 29th Server Development Part (2021.09 ~ 2022.01)  <br>
   - 성신여자대학교 컴퓨터공학과 졸업 (2017.03 ~ 2022.08) <br>
 
-  <br /><br />
+  
   <h3>📚 Tech Stack 📚</h3>
   <div class="stack">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
