@@ -1,17 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Eunji's%20GitHub&fontAlignY=40&fontSize=100&desc=welcome👋&descAlignY=65&animation=twinkling)
 
 <div align="center">
-  <h4>안녕하세요! 👋</h4>
-  백엔드 개발자 김은지입니다.
-  <br>
-  :seedling: I'm a grows junior Backend Developer :seedling:
-  
-  <h4>💻 Experience 💻</h4>
-  - 삼성 청년 SW 아카데미 SSAFY 8th (2022.07 ~ 2023.06)  <br>
-  - 대학 연합 IT벤처 창업 동아리 SOPT 29th Server Development Part (2021.09 ~ 2022.01)  <br>
-  - 성신여자대학교 컴퓨터공학과 졸업 (2017.03 ~ 2022.08) <br>
-
-  
   <h3>📚 Tech Stack 📚</h3>
   <div class="stack">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
