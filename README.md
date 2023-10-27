@@ -41,8 +41,7 @@
   
   ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun_za)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunji8784&layout=compact&theme=dracula)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunji8784&show_icons=true&theme=dracula)
+
 
 </div>
 
