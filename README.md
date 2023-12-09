@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Eunji's%20GitHub&fontAlignY=40&fontSize=100&desc=welcome👋&descAlignY=65&animation=twinkling)
 
+> Hi. I am Eunji Kim. I am interested in Backend Development and Cloud Engineering. 🌱
+---
 <div align="center">
+  <h4>💻 Experience 💻</h4>
+  - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06)  <br>
+  - SOPT 29th, WE-SOPT Server Development Part (2021.09 ~ 2022.01)  <br>
+  - Sungshin Women's University, Computer Engineering (2017.03 ~ 2022.08) <br>
   <h3>📚 Tech Stack 📚</h3>
   <div class="stack">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
