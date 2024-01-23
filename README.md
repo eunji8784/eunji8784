@@ -49,5 +49,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=eunji8784&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun_za)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunji8784&layout=compact&theme=dracula)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=eunji8784&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="eunji8784" />
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
