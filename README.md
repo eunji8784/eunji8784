@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
     <br>
-    <h3>🫂 Cowork Tools 🫂</h3>
+    <h3>🧑‍🤝‍🧑 Cowork Tools 🧑‍🤝‍🧑</h3>
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white">
