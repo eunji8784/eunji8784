@@ -41,17 +41,13 @@
     <br>
   </div>
  <br />
-
-	
- <br />
   
-  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun_za)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunji8784&layout=compact&theme=dracula)
-
-
 </div>
 
-## 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=eunji8784&theme=onedark&rank=SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🏆 Card
+[![trophy](https://github-profile-trophy.vercel.app/?username=eunji8784&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun_za)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunji8784&layout=compact&theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
