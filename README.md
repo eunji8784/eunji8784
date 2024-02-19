@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=black"/> 
     <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white">
     <br>
