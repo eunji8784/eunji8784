@@ -47,6 +47,14 @@
   
 </div>
 
+## 📁 Projects
+| Title | Period | Description | Group | URL |
+| :--: | :--: | :--: | :--: | :--: |
+| 디플로이지 | 2023.04 ~ 2023.05 |  Docker 기반의 쉽고 빠른 자동배포 솔루션 <br> **SSAFY 자율 프로젝트 우수상** | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/DeployzOpenSourceSolution/Deployz) |
+| Kang We Dance? | 2023.02 ~ 2023.04 | 부모와 아이가 함께 즐기는 헬스 게임 웹 서비스 <br> **SSAFY 특화 프로젝트 우수상** | 삼성 청년 SW 아카데미 8기 | - |
+| Mindder | 2023.01 ~ 2023.02 | 감정 공유 SNS 웹 서비스 <br> **SSAFY 공통 프로젝트 우수상** | 삼성 청년 SW 아카데미 8기 | - |
+| READ ME | 2022.03 ~ 2022.05 | 우리들의 독서기록 서비스 | SOPT 30기 | [GitHub Link](https://github.com/TEAM-README/Readme-Server) |
+| 나도선배 | 2022.01 ~ 2022.09 | 제2전공생을 위한 학과 후기, 전공 정보 공유 플랫폼 <br> **APPJAM 최우수상** | SOPT 29기 | [GitHub Link](https://github.com/TeamNado-Sunbae/NadoSunbae-Server) <br> [iOS](https://apps.apple.com/kr/app/%EB%82%98%EB%8F%84%EC%84%A0%EB%B0%B0/id1605763068?utm_source=iosdownloadlink&utm_medium=instagram&utm_campaign=promotion) <br> [AOS](https://play.google.com/store/apps/details?id=com.nadosunbae_android.app&utm_source=aosdownloadlink&utm_medium=instagram&utm_campaign=promotion) |
 
 ## 🏆 Cards
 [![trophy](https://github-profile-trophy.vercel.app/?username=eunji8784&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
