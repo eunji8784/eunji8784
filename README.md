@@ -48,7 +48,7 @@
 </div>
 
 
-## 🏆 Card
+## 🏆 Cards
 [![trophy](https://github-profile-trophy.vercel.app/?username=eunji8784&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun_za)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunji8784&layout=compact&theme=dracula)
